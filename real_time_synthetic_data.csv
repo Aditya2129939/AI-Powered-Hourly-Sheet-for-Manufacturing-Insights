@@ -1,0 +1,12 @@
+Date,Shift,Machine ID,Operator,Product Name,Target Output,Actual Output,Cumulative Output,Defects,Downtime (Minutes),Reason,Remarks
+21-04-2025 06:06,Afternoon,M01,John,P-123,50,48,153,5,5,Operator Break,
+21-04-2025 06:06,Afternoon,M03,Alice,P-125,50,44,120,1,15,Material Shortage,
+21-04-2025 06:06,Morning,M03,John,P-124,50,55,183,0,0,Maintenance,
+21-04-2025 06:06,Night,M01,Alice,P-125,50,51,133,4,0,Operator Break,
+21-04-2025 06:06,Morning,M03,John,P-125,50,38,157,3,5,Operator Break,
+21-04-2025 06:06,Afternoon,M01,Alice,P-125,50,38,120,3,15,,
+21-04-2025 06:06,Afternoon,M02,Jane,P-125,50,37,198,0,0,Tool Change,
+21-04-2025 06:06,Morning,M02,Jane,P-125,50,40,150,3,10,Operator Break,
+21-04-2025 06:06,Afternoon,M02,Alice,P-123,50,37,137,3,5,Material Shortage,
+21-04-2025 06:06,Morning,M01,Jane,P-124,50,42,176,2,10,Tool Change,
+2025-04-21,Morning,m99,aditya,P-199,50,54,200,8,15,Break,
